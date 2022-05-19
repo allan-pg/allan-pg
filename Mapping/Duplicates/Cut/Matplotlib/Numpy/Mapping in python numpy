@@ -1,0 +1,24 @@
+import numpy as np
+import pandas as pd
+data = pd.DataFrame({'food':['meatpie', 'Pork', 'Beef', 'steak', 'hotdogs', 'ribs', 'meatballs'], 'ounce':[4.5, 6.4, 5.4, 3.9, 4.3, 7.0, 2.29]})
+print(data)
+meat_animal = {
+    'meatpie':'cow',
+    'pork': 'pig',
+    'beef': 'cow',
+    'steak': 'goat',
+    'hotdogs': 'pig',
+    'ribs': 'sheep',
+    'meatballs': 'cow'
+}
+lower = data['food'].str.lower()
+data['animal'] =  lower.map(meat_animal)
+print(data.duplicated())
+data.drop_duplicates(['animal'])
+print(data)
+ages = [23, 19, 45, 26, 38, 31, 61, 93, 69, 52, 33, 27]
+bin = [18, 25, 35, 45, 65, 100]
+groups = ['youth', 'young adults', 'middle age', 'senior', 'old']
+x = pd.cut(ages, bin, labels=groups)
+print(x.categories)
+print(pd.value_counts(x))
