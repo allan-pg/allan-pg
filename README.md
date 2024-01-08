@@ -36,3 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allan-pg&" alt="allan-pg" /></p>
 
+## Contacts
+- Email: carsonallan71@gmail.com
+
