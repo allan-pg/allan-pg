@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 <p align="left"> <a href="https://twitter.com/@gathigia_s" target="blank"><img src="https://img.shields.io/twitter/follow/@gathigia_s?logo=twitter&style=for-the-badge" alt="@gathigia_s" /></a> </p>
 
-- 🔭 I’m currently working on **dsta cleaning and viusalization**
+- 🔭 I’m currently working on **data cleaning and viusalization**
 
 - 🌱 I’m currently learning **AI and machine learning**
 
