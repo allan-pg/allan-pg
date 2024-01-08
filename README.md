@@ -1,6 +1,6 @@
 <h1 align="center">Allan Mwangi 🖥💻  - Data Analyst Portfolio</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
-## About
+
 Hi, i'm Allan! I have an analytical background knowledge in Mathematics and Computer Science. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
