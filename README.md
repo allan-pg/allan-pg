@@ -18,9 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * 🦝 pandas, numpy, pytorch, tensorflow
 * 📊📉📈 powerbi, matplotlib, seaborn
   
-- 🔭 I’m currently working on **data cleaning and viusalization**
-
-- 🌱 I’m currently learning **AI and machine learning**
+__________________________________________________________________________________________________________________________________________________________________________
 
 - 👯 I’m looking to collaborate on **data analysis to create reports on insights found**
 
