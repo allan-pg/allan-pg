@@ -11,10 +11,13 @@ This is a repository to showcase skills, share projects and track my progress in
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-pg&label=Profile%20views&color=0e75b6&style=flat" alt="allan-pg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allan-pg" alt="allan-pg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@gathigia_s" target="blank"><img src="https://img.shields.io/twitter/follow/@gathigia_s?logo=twitter&style=for-the-badge" alt="@gathigia_s" /></a> </p>
-
+## Skills and Experience
+* 🧩Excel
+* 🐍 python
+* 💻 Mysql, MS sql, Postgre, Mongo DB
+* 🦝 pandas, numpy, pytorch, tensorflow
+* 📊📉📈 powerbi, matplotlib, seaborn
+  
 - 🔭 I’m currently working on **data cleaning and viusalization**
 
 - 🌱 I’m currently learning **AI and machine learning**
