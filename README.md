@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-pg&label=Profile%20views&color=0e75b6&style=flat" alt="allan-pg" /> </p>
 
-## Skills and Experience
+## Skills 
 * 🧩Excel
 * 🐍 python
 * 💻 Mysql, MS sql, Postgre, Mongo DB
