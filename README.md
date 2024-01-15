@@ -1,12 +1,6 @@
 <h1 align="center">Allan Mwangi 🖥💻  - Data Analyst Portfolio</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
-<h1 align="center"><img src="./name.svg" ></h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
-</p>
-<h3 align="center">A Full Stack Blockchain Developer .</h3>
 
 Hi, i'm Allan! I have an analytical background knowledge in Mathematics and Computer Science. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
