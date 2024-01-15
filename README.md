@@ -1,5 +1,6 @@
 <h1 align="center">Allan Mwangi 🖥💻  - Data Analyst Portfolio</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Allan Mwangi 🖥💻  - Data Analyst Portfolio;Second+line+of+text)](https://git.io/typing-svg)
 
 
 Hi, i'm Allan! I have an analytical background knowledge in Mathematics and Computer Science. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
