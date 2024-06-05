@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 - 👯 I’m looking to collaborate on **data analysis to create reports on insights found**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on https://medium.com/@carsonallan71
 
 - 💬 Ask me about **python and its libraries, sql, power bi**
 
