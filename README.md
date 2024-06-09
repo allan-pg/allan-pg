@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 - 📝 I regularly write articles on https://medium.com/@carsonallan71
 
-- 💬 Ask me about **python and its libraries, sql, power bi**
+- 💬 Ask me about **python, numpy, pandas, matplotlib, seaborn, excel, sql, power bi**
 
 - 📫 How to reach me **carsonallan71@gmail.com**
 
