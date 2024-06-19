@@ -21,6 +21,8 @@ This is a repository to showcase skills, share projects and track my progress in
   
 __________________________________________________________________________________________________________________________________________________________________________
 
+- 👯 I am currently workin at **witu mjini secondary** as an **ICT technician**
+  
 - 👯 I’m looking to collaborate on **data analysis to create reports on insights found**
 
 - 📝 I regularly write articles on https://medium.com/@carsonallan71
