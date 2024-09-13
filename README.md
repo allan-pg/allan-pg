@@ -2,13 +2,17 @@
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
-Hi, I'm Allan! I have an analytical background knowledge in Mathematics and Computer Science. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+As a passionate and results-driven Data Scientist, I specialize in transforming complex data into actionable insights that drive business success. With a strong foundation in Excel, MySQL, Power BI, and Python, I excel at data manipulation, analysis, and visualization.
 
-During my studies, I horned my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Throughout my career, I have leveraged my expertise to develop dynamic dashboards, optimize SQL queries, and perform in-depth data analyses. My proficiency in Python allows me to utilize powerful libraries such as Pandas, NumPy, Matplotlib, and Seaborn to uncover trends and patterns that inform strategic decisions.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+Key achievements include:
+- Increasing operational efficiency by 15% through advanced data analysis in Excel.
+- Designing and maintaining robust MySQL databases to ensure data integrity and performance.
+- Creating interactive Power BI dashboards that provide real-time insights and enhance decision-making.
+- Conducting comprehensive data analyses using Python, leading to more accurate and actionable business insights.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+I am committed to continuous learning and staying updated with the latest industry trends and technologies. My goal is to leverage data to solve complex problems and contribute to the success of forward-thinking organizations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-pg&label=Profile%20views&color=0e75b6&style=flat" alt="allan-pg" /> </p>
 
