@@ -2,15 +2,15 @@
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
-As a passionate and results-driven Data Scientist, I specialize in transforming complex data into actionable insights that drive business success. With a strong foundation in Excel, MySQL, Power BI, and Python, I excel at data manipulation, analysis, and visualization.
+Results-oriented Data Analyst with a passion for transforming complex datasets into actionable, data-driven insights that propel business success. Proficient in Excel, MySQL, Power BI, and Python, I specialize in data manipulation, statistical analysis, and business intelligence visualization. Leveraging advanced skills in Python libraries (Pandas, NumPy, Matplotlib, Seaborn), I excel at uncovering trends, building predictive models, and delivering strategic recommendations. With a proven track record in optimizing workflows, designing robust databases, and creating impactful dashboards, I thrive in collaborative environments and am dedicated to continuous learning to stay ahead of industry trends.
 
-Throughout my career, I have leveraged my expertise to develop dynamic dashboards, optimize SQL queries, and perform in-depth data analyses. My proficiency in Python allows me to utilize powerful libraries such as Pandas, NumPy, Matplotlib, and Seaborn to uncover trends and patterns that inform strategic decisions.
 
 Key achievements include:
-- Increasing operational efficiency by 15% through advanced data analysis in Excel.
-- Designing and maintaining robust MySQL databases to ensure data integrity and performance.
-- Creating interactive Power BI dashboards that provide real-time insights and enhance decision-making.
-- Conducting comprehensive data analyses using Python, leading to more accurate and actionable business insights.
+- Boosted operational efficiency by 15% through advanced data analysis in Excel, utilizing pivot tables and statistical functions to streamline reporting processes for cross-functional teams.
+- Enhanced database performance by 25% by designing and maintaining MySQL databases, optimizing SQL queries to ensure data integrity and support scalable business intelligence solutions
+- Improved decision-making efficiency by 30% by developing interactive Power BI dashboards, delivering real-time insights to stakeholders and reducing reporting turnaround time.
+- Increased insight accuracy by 20% through comprehensive data analyses in Python, leveraging Pandas and NumPy for data modeling and Seaborn for visualizations that informed actionable strategic decisions.
+
 
 I am committed to continuous learning and staying updated with the latest industry trends and technologies. My goal is to leverage data to solve complex problems and contribute to the success of forward-thinking organizations.
 
