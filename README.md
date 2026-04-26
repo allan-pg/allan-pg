@@ -1,39 +1,47 @@
-<h1 align="center">Allan Mwangi 🖥💻  - Data Analyst Portfolio</h1>
+<h1 align="center">Allan Mwangi - Data Analyst/Data Modeller Portfolio</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
-Results-oriented Data Analyst with a passion for transforming complex datasets into actionable, data-driven insights that propel business success. Proficient in Excel, MySQL, Power BI, and Python, I specialize in data manipulation, statistical analysis, and business intelligence visualization. Leveraging advanced skills in Python libraries (Pandas, NumPy, Matplotlib, Seaborn), I excel at uncovering trends, building predictive models, and delivering strategic recommendations. With a proven track record in optimizing workflows, designing robust databases, and creating impactful dashboards, I thrive in collaborative environments and am dedicated to continuous learning to stay ahead of industry trends.
+A Data Modeller and Data Analyst based in Kenya, with hands-on experience working with Microsoft Azure and Databricks. I specialize in turning business requirements into well-structured data models and reliable analytics solutions that support decision-making.
 
+I am comfortable working across the full data lifecycle — from source systems all the way to gold layer datasets. I investigate data at the source to identify issues, data quality gaps, and inconsistencies, ensuring the final data used for reporting is accurate, trusted, and fit for business use.
 
-Key achievements include:
-- Boosted operational efficiency by 15% through advanced data analysis in Excel, utilizing pivot tables and statistical functions to streamline reporting processes for cross-functional teams.
-- Enhanced database performance by 25% by designing and maintaining MySQL databases, optimizing SQL queries to ensure data integrity and support scalable business intelligence solutions
-- Improved decision-making efficiency by 30% by developing interactive Power BI dashboards, delivering real-time insights to stakeholders and reducing reporting turnaround time.
-- Increased insight accuracy by 20% through comprehensive data analyses in Python, leveraging Pandas and NumPy for data modeling and Seaborn for visualizations that informed actionable strategic decisions.
+I have experience designing and working with medallion architecture - bronze, silver, gold layers:
 
+In the silver layer, I integrate data from multiple sources, clean it, and standardize it using rules like crosswalk mappings, reference tables, and consistent business definitions.
+In the gold layer, I shape data for reporting and analytics in a way that is business-friendly and optimized for performance.
 
-I am committed to continuous learning and staying updated with the latest industry trends and technologies. My goal is to leverage data to solve complex problems and contribute to the success of forward-thinking organizations.
+I also design Kimball dimensional models, building:
+
+Fact tables that hold measurable business events (like sales, transactions, quantities, etc.)
+Dimension tables that contain descriptive attributes (like customers, products, time, locations)
+
+This helps create clear, easy-to-use star schemas that support fast and scalable reporting in tools like Power BI.
+
+Beyond modeling, I translate business requirements into technical data solutions, ensuring that what stakeholders need is accurately reflected in the data structures and reports delivered.
+
+I am skilled in SQL, Python, Power BI, Excel, MySQL, and data processing libraries like Pandas and NumPy, which I use for analysis, transformation, and visualization.
+
+I enjoy solving data problems, improving data quality, and building systems that make data easier to understand and trust. My goal is to continue growing in data engineering and analytics roles where I can help organizations make better decisions through well-structured and reliable data.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-pg&label=Profile%20views&color=0e75b6&style=flat" alt="allan-pg" /> </p>
 
 ## Skills 
-* 🧩Excel
-* 🐍 python
-* 💻 Mysql, MS sql, Postgre, Mongo DB
-* 🦝 pandas, numpy, pytorch, tensorflow
-* 📊📉📈 powerbi, matplotlib, seaborn
+* Excel
+* python
+* Mysql, MS sql, Postgre, Mongo DB
+* pandas, numpy, pytorch, tensorflow
+* powerbi, matplotlib, seaborn
   
 __________________________________________________________________________________________________________________________________________________________________________
 
-- 👯 I am currently workin at **witu mjini secondary** as an **ICT technician**
+- I am currently working at **ArtSam technologies** as a **Data Modeller**
   
-- 👯 I’m looking to collaborate on **data analysis to create reports on insights found**
+-  I’m looking to collaborate on **Data engineering projects**
 
-- 📝 I regularly write articles on https://medium.com/@carsonallan71
+- I regularly write articles on https://medium.com/@carsonallan71
 
-- 💬 Ask me about **python, numpy, pandas, matplotlib, seaborn, excel, sql, power bi**
-
-- 📫 How to reach me **carsonallan71@gmail.com**
+- How to reach me **carsonallan71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
