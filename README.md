@@ -1,5 +1,5 @@
 <h1 align="center">Allan Mwangi - Data Analyst/Data Modeller Portfolio</h1>
-<h3 align="center">A passionate data scientist from Kenya</h3>
+<h3 align="center">A passionate data architect/data analyst/data modeller from Kenya</h3>
 
 
 A Data Modeller and Data Analyst based in Kenya, with hands-on experience working with Microsoft Azure and Databricks. I specialize in turning business requirements into well-structured data models and reliable analytics solutions that support decision-making.
