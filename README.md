@@ -10,15 +10,15 @@ I specialize in designing data models and transforming business requirements int
 
 ## What I Do
 
-- Data modeling using Kimball dimensional modeling (fact & dimension tables)
-- Medallion architecture (Bronze, Silver, Gold layers)
-- Data cleaning, standardization, and transformation
-- Translating business requirements into analytics-ready datasets
-- Building reporting datasets for tools like Power BI
+- Design dimensional data models (Kimball: fact & dimension tables) for analytics and reporting
+- Build and maintain medallion architecture pipelines (Bronze, Silver, Gold layers)
+- Clean, transform, and standardize data from multiple sources into consistent business definitions
+- Translate business requirements into structured data solutions and reporting datasets
+- Support BI development by preparing optimized datasets for tools like Power BI
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Tools**
 - SQL (MySQL, MS SQL, PostgreSQL)
@@ -33,10 +33,10 @@ I specialize in designing data models and transforming business requirements int
 
 ---
 
-## 💼 Experience
+## Experience
 
-- Data Modeller at ArtSam Technologies  
-- Focused on designing  data warehouses, data models and analytics-ready datasets
+- Data Modeller — ArtSam Technologies  
+  Focused on designing data warehouses, dimensional models, and analytics-ready datasets that support reporting and business intelligence.
 
 ---
 
