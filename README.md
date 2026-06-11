@@ -35,7 +35,7 @@ I specialize in designing data models and transforming business requirements int
 
 ## Experience
 
-- Data Modeller — ArtSam Technologies  
+- I currently work as Data Modeller/Data Architect at ArtSam Technologies  
   Focused on designing data warehouses, dimensional models, and analytics-ready datasets that support reporting and business intelligence.
 
 ---
