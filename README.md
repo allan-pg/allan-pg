@@ -1,16 +1,16 @@
 Hi there, 
 
-Data Analyst and Data Modeller based in Kenya, focused on building reliable, well-structured data systems that support analytics and business decision-making.
+Data Architect and Data Modeller based in Kenya, focused on building reliable, well-structured data systems that support analytics and business decision-making.
 
 I work across the full data lifecycle — from raw sources to curated analytics layers — ensuring data quality, consistency, and usability for reporting and insights.
 
-I specialize in designing data models and transforming business requirements into structured, scalable data solutions.
+I specialize in designing data warehouses, data models and transforming business requirements into structured, scalable data solutions.
 
 ---
 
 ## What I Do
 
-- Design dimensional data models (Kimball: fact & dimension tables) for analytics and reporting
+- Design dimensional data models using kimballs datawarehousing technique for analytics and reporting
 - Build and maintain medallion architecture pipelines (Bronze, Silver, Gold layers)
 - Clean, transform, and standardize data from multiple sources into consistent business definitions
 - Translate business requirements into structured data solutions and reporting datasets
@@ -21,9 +21,10 @@ I specialize in designing data models and transforming business requirements int
 ## Skills
 
 **Languages & Tools**
-- SQL (MySQL, MS SQL, PostgreSQL)
-- Python (Pandas, NumPy)
+- SQL/No SQL
+- Python 
 - Power BI, Excel
+- DBT
 
 **Data Engineering Concepts**
 - Data Warehousing
